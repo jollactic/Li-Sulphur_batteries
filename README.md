@@ -1,5 +1,8 @@
 # Li-Sulphur_batteries
 
+The calculations suggest that SPN is readily lithiated before polysulfide reduction, but LiSPN is not thermodynamically capable of directly reducing isolated polysulfides; its beneficial role is therefore more likely associated with Li/polysulfide coordination, stabilization, or reaction kinetics.
+
+
 # Li–S / SPN Reaction Energies
 
 Electronic energies and reaction energies for the Li–S polysulfide series and
