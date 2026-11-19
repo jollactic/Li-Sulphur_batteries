@@ -78,8 +78,8 @@ reduce the polysulfides spontaneously. Any mediator effect of SPN may instead
 involve complex formation, structural stabilization, kinetics, or other
 reaction pathways not represented by these isolated-species energies.
 
-
 # HOMO-LUMO AE and IP values
+
 |System               |HOMO      |LUMO   |IP_vert   |EA_vert     |IP_ad     |EA_ad    |relax+    |relax-|
 |---:|---|
 |Li20S10             |-8.269     |0.520     |6.259     |0.882     |5.831     |0.992     |0.428     |0.109|
