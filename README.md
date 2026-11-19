@@ -81,6 +81,7 @@ reaction pathways not represented by these isolated-species energies.
 # HOMO-LUMO AE and IP values
 
 |System               |HOMO      |LUMO   |IP_vert   |EA_vert     |IP_ad     |EA_ad    |relax+    |relax-|
+|-------------|----------|---------|---------|---------|-------|-------|--------|--------|
 |Li20S10             |-8.269     |0.520     |6.259     |0.882     |5.831     |0.992     |0.428     |0.109|
 |Li2S                |-7.707     |0.661     |5.202     |1.017     |5.106     |1.540     |0.096     |0.523|
 |Li2S2               |-7.739     |0.761     |5.593     |1.077     |5.050     |1.409     |0.543     |0.331|
